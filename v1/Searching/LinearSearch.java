@@ -1,5 +1,5 @@
 // Linear Search
-public class Main {
+public class LinearSearch {
     public static void main(String[] args) {
         int target = 14;
         int[] nums = {22,44,33,22,14,33,44};
