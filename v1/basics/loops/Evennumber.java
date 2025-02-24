@@ -1,7 +1,7 @@
 // Print all even numbers till n.
 
 
-package loops;
+package v1.basics.loops;
 
 import java.util.Scanner;
 

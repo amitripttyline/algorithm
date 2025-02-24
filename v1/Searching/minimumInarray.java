@@ -1,4 +1,6 @@
 // Find minimum in array
+package v1.Searching;
+
 public class minimumInarray {
     public static void main(String[] args) {
         int[] arr = {2,5,3,2,4,1,333,22,-33, 99,88};

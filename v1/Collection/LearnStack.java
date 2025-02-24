@@ -1,3 +1,4 @@
+package v1.Collection;
 import java.util.Stack;
 
 public class LearnStack {

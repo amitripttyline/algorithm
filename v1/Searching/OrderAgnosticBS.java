@@ -1,4 +1,6 @@
 // BS works here for both ascending and descending sorted array
+package v1.Searching;
+
 public class OrderAgnosticBS {
     public static void main(String[] args) {
         int[] arr = {66,44,33,11,4};

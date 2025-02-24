@@ -1,6 +1,6 @@
 // Enter 3 numbers from the user & make a function to print their average.
 
-package Functions;
+package v1.basics.Functions;
 
 import java.util.Scanner;
 

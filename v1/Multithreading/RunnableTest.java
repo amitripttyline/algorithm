@@ -1,4 +1,4 @@
-package Multithreading;
+package v1.Multithreading;
 
 class MyRunnable implements Runnable
 {

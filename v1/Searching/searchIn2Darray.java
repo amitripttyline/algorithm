@@ -1,4 +1,7 @@
+package v1.Searching;
+
 import java.util.Arrays;
+
 
 public class searchIn2Darray {
     public static void main(String[] args) {

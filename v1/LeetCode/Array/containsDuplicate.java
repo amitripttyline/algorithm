@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/contains-duplicate/description/
 
+package v1.LeetCode.Array;
 
 import java.util.Arrays;
 

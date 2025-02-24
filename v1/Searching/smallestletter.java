@@ -1,3 +1,5 @@
+package v1.Searching;
+
 public class smallestletter {
     public static void main(String[] args) {
         char[] letters = {'e', 'j', 'l', 'm', 'p', 'x', 'z'};

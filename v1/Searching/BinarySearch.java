@@ -1,3 +1,5 @@
+package v1.Searching;
+
 // binary search(assumed array is sorted ina ascending/descending order)
 public class BinarySearch {
     public static void main(String[] args) {

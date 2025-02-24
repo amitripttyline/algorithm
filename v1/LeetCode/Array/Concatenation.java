@@ -1,3 +1,5 @@
+package v1.LeetCode.Array;
+
 //https://leetcode.com/problems/concatenation-of-array/
 
 class Concatenation{

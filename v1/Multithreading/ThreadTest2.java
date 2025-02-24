@@ -1,4 +1,4 @@
-package Multithreading;
+package v1.Multithreading;
 
 /*class MyThread extends Thread
 {

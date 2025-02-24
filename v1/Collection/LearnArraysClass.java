@@ -1,3 +1,5 @@
+package v1.Collection;
+
 import java.util.Arrays;
 
 public class LearnArraysClass {

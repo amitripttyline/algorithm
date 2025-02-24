@@ -1,4 +1,6 @@
 //Search element in 2D array
+package v1.Searching;
+
 import java.util.Arrays;
 
 public class RowColMatrix {

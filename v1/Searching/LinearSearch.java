@@ -1,4 +1,6 @@
 // Linear Search
+package v1.Searching;
+
 public class LinearSearch {
     public static void main(String[] args) {
         int target = 14;

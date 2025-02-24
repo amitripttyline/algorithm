@@ -1,3 +1,5 @@
+package v1.basics;
+
 // Make a Calculator. Take 2 numbers (a & b) from the user and an operation as follows : 
 // 	1 : + (Addition) a + b
 // 2 : - (Subtraction) a - b

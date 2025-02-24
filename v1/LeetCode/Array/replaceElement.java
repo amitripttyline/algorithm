@@ -1,5 +1,6 @@
 // https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/
 
+package v1.LeetCode.Array;
 
 public class replaceElement {
     public int[] replaceElements(int[] arr) {

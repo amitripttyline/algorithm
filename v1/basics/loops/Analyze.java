@@ -1,4 +1,4 @@
-package loops;
+package v1.basics.loops;
 
 public class Analyze {
     public static void main(String[] args) {

@@ -8,7 +8,7 @@
 // 	Because marks don’t matter but our effort does.
 // (Hint : use do-while loop but think & understand why)
 
-package loops;
+package v1.basics.loops;
 
 import java.util.Scanner;
 
