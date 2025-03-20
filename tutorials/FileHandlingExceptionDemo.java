@@ -130,5 +130,4 @@ public class FileHandlingExceptionDemo {
         }
         System.out.println("Pan card verified successfully");
     }
-    
 } 
