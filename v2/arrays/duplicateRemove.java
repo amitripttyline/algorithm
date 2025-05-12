@@ -44,7 +44,7 @@ public class duplicateRemove {
 			}
 			if (!isDuplicate) {
 					uniqueArray[index++] = arr[i];
-			}qwvbg2
+			}
 		}
 
 		return Arrays.copyOf(uniqueArray, index);
